@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment files (keep .env.example only)
+.env
+.env.local
+
+# Uploads
+server/uploads/
+
+# Vercel
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Server is deployed separately
+server/
+server.worktrees/
+
+# Files with secrets
+APLIKASI WEBGIS VIA API LOCAL HOST.html
+APLIKASI WEBGIS VIA API PRODUCTION.html
